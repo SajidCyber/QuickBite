@@ -1,0 +1,501 @@
+order_id,distance_km,traffic_level,zone
+QB10001,7.45,High,South
+QB10002,2.16,Low,North
+QB10003,8.5,Low,West
+QB10004,5.5,High,Central
+QB10005,2.09,Medium,Airport
+QB10006,2.18,Medium,South
+QB10007,4.04,Low,North
+QB10008,3.43,High,Central
+QB10009,6.52,Medium,Central
+QB10010,2.78,Low,East
+QB10011,5.14,Low,North
+QB10012,7.11,Low,Central
+QB10013,1.4,High,Tech Park
+QB10014,11.22,Medium,Central
+QB10015,5.05,Severe,West
+QB10016,1.85,Medium,Tech Park
+QB10017,4.79,Medium,South
+QB10018,1.61,Medium,South
+QB10019,7.8,Severe,Airport
+QB10020,2.84,Medium,Old Town
+QB10021,8.39,Low,Central
+QB10022,6.7,Severe,Tech Park
+QB10023,4.32,Low,North
+QB10024,1.67,Low,East
+QB10025,4.21,High,North
+QB10026,4.41,High,East
+QB10027,10.08,Medium,East
+QB10028,3.28,High,South
+QB10029,6.4,Severe,East
+QB10030,1.12,High,East
+QB10031,8.3,High,Old Town
+QB10032,7.5,Low,West
+QB10033,3.32,High,Central
+QB10034,4.15,Low,East
+QB10035,4.0,Low,East
+QB10036,7.08,High,Central
+QB10037,5.78,Low,Airport
+QB10038,16.83,High,Old Town
+QB10039,2.25,Medium,West
+QB10040,4.73,Medium,W
+QB10041,4.95,High,East
+QB10042,7.4,High,North
+QB10043,5.87,Severe,Central
+QB10044,4.24,Medium,Central
+QB10045,3.21,Low,East
+QB10046,1.98,Severe,East
+QB10047,5.37,Medium,North
+QB10048,1.46,High,Airport
+QB10049,3.78,High,South
+QB10050,1.48,Medium,Airport
+QB10051,1.59,High,Central
+QB10052,3.33,Low,North
+QB10053,11.56,Low, CENTRAL 
+QB10054,5.77,Medium,South
+QB10055,3.53,Low,West
+QB10056,4.71,Low,Tech Park
+QB10057,5.07,High,Old Town
+QB10058,2.72,Medium,North
+QB10059,12.97,High,East
+QB10060,3.42,Severe,Central
+QB10061,2.89,High,North
+QB10062,1.51,Medium,Tech Park
+QB10063,4.44,Severe,Central
+QB10064,2.92,Low,Tech Park
+QB10065,0.86,Medium,North
+QB10066,4.21,Severe,Old Town
+QB10067,12.31,Low,S
+QB10068,3.65,Medium,North
+QB10069,4.21,High,West
+QB10070,4.63,Low,Tech Park
+QB10071,4.67,Low,Tech Park
+QB10072,3.11,High,Airport
+QB10073,8.39,High,East
+QB10074,6.46,Medium, CENTRAL 
+QB10075,4.44,Low,Central
+QB10076,4.36,Medium,East
+QB10077,3.4,Low,Old Town
+QB10078,7.06,High,Old Town
+QB10079,3.99,High,North
+QB10080,9.63,High,East
+QB10081,3.14,Low,North
+QB10082,1.86,High,East
+QB10083,5.73,Severe,West
+QB10084,6.33,Low,South
+QB10085,3.86,Medium,North
+QB10086,2.82,High,Central
+QB10087,1.05,High,Old Town
+QB10088,5.76,Low,Old Town
+QB10089,5.39,Low,North
+QB10090,6.89,Medium,West
+QB10091,5.8,Low,Tech Park
+QB10092,6.89,Low,Tech Park
+QB10093,5.5,Severe,North
+QB10094,6.38,High,South
+QB10095,5.36,Severe,Central
+QB10096,7.84,Medium,East
+QB10097,3.3,Low,Tech Park
+QB10098,5.21,Medium,Central
+QB10099,3.06,Medium,Airport
+QB10100,1.92,High,South
+QB10101,5.89,Low,Tech Park
+QB10102,5.25,Medium,North
+QB10103,3.99,High,South
+QB10104,11.01,High,Central
+QB10105,3.41,High,Central
+QB10106,4.94,Medium,west
+QB10107,14.7,Medium,East
+QB10108,3.91,Low,West
+QB10109,5.53,Medium,Tech Park
+QB10110,1.72,High,South
+QB10111,8.58,High,Old Town
+QB10112,6.19,Medium,Central
+QB10113,1.8,Low,East
+QB10114,5.37,Medium,Central
+QB10115,5.29,Medium,Old Town
+QB10116,8.01,Medium,Ctr
+QB10117,8.0,High,Tech Park
+QB10118,3.28,High,West
+QB10119,2.59,Low,East
+QB10120,4.79,Medium,Central
+QB10121,1.16,High,Central
+QB10122,6.24,Low,Central
+QB10123,2.48,Medium,North
+QB10124,8.77,Low,Tech Park
+QB10125,4.33,High,Airport
+QB10126,8.63,Medium,Old Town
+QB10127,6.73,Low,Central
+QB10128,3.96,Severe,East
+QB10129,8.68,Low,East
+QB10130,9.26,Medium,Central
+QB10131,3.97,High,East
+QB10132,7.55,High,East
+QB10133,4.6,Low, EAST 
+QB10134,6.2,Medium,West
+QB10135,2.85,Medium,West
+QB10136,1.83,Medium,Tech Park
+QB10137,4.86,Medium,South
+QB10138,8.94,High,Central
+QB10139,2.8,Medium,Tech Park
+QB10140,11.52,High,Airport
+QB10141,2.28,Severe,Tech Park
+QB10142,3.69,Medium,North
+QB10143,2.9,Severe,West
+QB10144,7.45,High,South
+QB10145,4.52,Low,Central
+QB10146,2.38,Severe,South
+QB10147,3.02,High,East
+QB10148,6.2,Low,East
+QB10149,2.63,Medium,W
+QB10150,4.03,Medium,Airport
+QB10151,5.39,High,Old Town
+QB10152,7.56,High,Tech Park
+QB10153,3.73,Medium,Airport
+QB10154,5.07,High,Airport
+QB10155,11.61,Medium,Tech Park
+QB10156,5.38,Medium,North
+QB10157,1.53,High,Tech Park
+QB10158,3.15,Low,North
+QB10159,3.07,Medium,Central
+QB10160,5.4,Low,Central
+QB10161,9.73,Medium, EAST 
+QB10162,11.36,High,Tech Park
+QB10163,3.47,Medium,Airport
+QB10164,5.82,Low,Tech Park
+QB10165,5.92,Medium,Old Town
+QB10166,5.97,High,Tech Park
+QB10167,5.68,Low,Central
+QB10168,6.28,Severe,South
+QB10169,6.77,Medium, CENTRAL 
+QB10170,6.19,Medium,Old Town
+QB10171,2.63,High,West
+QB10172,3.41,Medium,Airport
+QB10173,8.31,High,Airport
+QB10174,4.79,High,Central
+QB10175,7.61,Severe,Old Town
+QB10176,1.54,High,Tech Park
+QB10177,3.08,Low,Old Town
+QB10178,2.64,Medium,South
+QB10179,11.11,High,Central
+QB10180,3.77,Low,Central
+QB10181,4.05,Medium,Central
+QB10182,3.7,High,North
+QB10183,4.53,Low,Tech Park
+QB10184,9.73,Medium,West
+QB10185,7.1,Medium, SOUTH 
+QB10186,5.53,Medium,East
+QB10187,6.08,Medium,Oldtown
+QB10188,0.62,High,Central
+QB10189,10.91,Low,Old Town
+QB10190,3.98,Medium,Central
+QB10191,5.85,Medium,North
+QB10192,1.29,Medium,W
+QB10193,8.33,Medium,Central
+QB10194,8.56,Severe,Tech Park
+QB10195,1.79,Medium,tech park
+QB10196,6.37,Medium,South
+QB10197,8.22,Medium,Central
+QB10198,4.95,Severe,Old Town
+QB10199,2.43,Severe,South
+QB10200,13.08,Medium,Central
+QB10201,7.75,Low,Airport
+QB10202,3.02,Medium,East
+QB10203,5.98,Medium,Central
+QB10204,0.88,Medium,Central
+QB10205,9.3,Severe,East
+QB10206,6.31,Low,East
+QB10207,1.96,High,Old Town
+QB10208,6.25,Medium,West
+QB10209,1.4,Medium,East
+QB10210,1.98,High,West
+QB10211,3.67,High,Tech Park
+QB10212,3.17,High,Airport
+QB10213,5.94,Low,North
+QB10214,4.76,Severe,Old Town
+QB10215,6.0,Low,East
+QB10216,2.01,Low,west
+QB10217,18.0,Low,Airport
+QB10218,7.17,Medium,East
+QB10219,1.64,Medium,West
+QB10220,5.43,Medium,South
+QB10221,5.85,High,Central
+QB10222,2.23,Severe,Old Town
+QB10223,3.85,High,Central
+QB10224,1.89,High,North
+QB10225,1.8,Medium,Tech Park
+QB10226,12.36,Medium,West
+QB10227,4.14,High,Central
+QB10228,5.1,High,North
+QB10229,3.93,High,Tech Park
+QB10230,7.21,Severe,Tech Park
+QB10231,1.09,Low,East
+QB10232,7.01,High,Central
+QB10233,17.27,High,West
+QB10234,4.29,Low,East
+QB10235,4.05,Medium,South
+QB10236,10.18,Severe,Airport
+QB10237,4.23,High,West
+QB10238,4.24,Medium,Central
+QB10239,8.15,Severe,Airport
+QB10240,9.31,Low,South
+QB10241,8.0,Medium,Central
+QB10242,11.15,Low,Airport
+QB10243,4.98,High,East
+QB10244,5.78,Medium,Airport
+QB10245,4.67,Low,West
+QB10246,1.87,Medium,East
+QB10247,7.22,High,Old Town
+QB10248,2.95,Medium,North
+QB10249,3.66,High,Central
+QB10250,7.16,High,South
+QB10251,1.18,Medium,Central
+QB10252,1.75,High,Central
+QB10253,2.04,Low,Tech Park
+QB10254,6.63,High,Old Town
+QB10255,7.24,Medium,Airport
+QB10256,1.66,Medium,Central
+QB10257,3.7,High,Techpark
+QB10258,3.39,Low,West
+QB10259,3.02,Low,Ctr
+QB10260,7.19,Severe,Central
+QB10261,2.97,Low,West
+QB10262,5.02,Severe,Central
+QB10263,9.09,Medium,Airport
+QB10264,10.31,High,Airport
+QB10265,1.8,Medium,Central
+QB10266,1.64,Medium,Airport
+QB10267,9.21,Medium,West
+QB10268,5.35,Low,Central
+QB10269,2.69,Low,West
+QB10270,3.61,Medium,South
+QB10271,8.44,High,E
+QB10272,3.81,Medium,South
+QB10273,5.87,Severe, CENTRAL 
+QB10274,3.17,Medium,Old Town
+QB10275,2.38,High,Central
+QB10276,4.2,Low,West
+QB10277,4.69,High,Airport
+QB10278,1.76,Medium,Tech Park
+QB10279,7.68,Low,Tech Park
+QB10280,3.18,High,West
+QB10281,4.87,Medium,West
+QB10282,5.79,Low,Central
+QB10283,3.29,Low,Central
+QB10284,7.97,Severe,Central
+QB10285,2.51,High,West
+QB10286,2.74,Medium,East
+QB10287,9.36,High,East
+QB10288,10.61,Medium,Airport
+QB10289,13.08,High,Central
+QB10290,7.32,Medium,East
+QB10291,2.29,High,East
+QB10292,16.36,High,North
+QB10293,1.74,High,East
+QB10294,4.39,High,Central
+QB10295,5.13,High,East
+QB10296,1.22,Low,Central
+QB10297,6.08,Medium,East
+QB10298,2.38,Medium,North
+QB10299,12.04,High,West
+QB10300,5.28,Severe,North
+QB10301,5.99,Medium,East
+QB10302,7.38,Severe,Central
+QB10303,3.11,Low,airport
+QB10304,2.45,Medium,South
+QB10305,2.52,Medium,South
+QB10306,9.58,Medium,Central
+QB10307,2.2,High,South
+QB10308,1.04,Low,Airport
+QB10309,1.08,High, EAST 
+QB10310,6.36,High,East
+QB10311,15.56,Medium,Tech Park
+QB10312,5.88,High,OLD TOWN 
+QB10313,1.69,Low,West
+QB10314,5.48,High,north
+QB10315,3.33,Medium,Old Town
+QB10316,16.83,Low,Old Town
+QB10317,4.35,High,Airport
+QB10318,2.42,High,East
+QB10319,7.0,Low,East
+QB10320,3.24,High,Central
+QB10321,1.63,Medium,Central
+QB10322,6.59,Medium,West
+QB10323,6.61,Medium,Airport
+QB10324,1.88,Medium,South
+QB10325,8.42,Medium,East
+QB10326,2.81,High,Central
+QB10327,5.28,Medium,West
+QB10328,11.9,High,Tech Park
+QB10329,3.76,Medium,Tech Park
+QB10330,3.33,High,Central
+QB10331,3.24,Medium,Old Town
+QB10332,6.11,Low,South
+QB10333,6.8,High,Old Town
+QB10334,10.33,Low,Central
+QB10335,2.41,High,east
+QB10336,5.37,High,Old Town
+QB10337,2.84,Medium,Old Town
+QB10338,11.05,High,Airport
+QB10339,6.13,Medium,East
+QB10340,3.39,High,Tech Park
+QB10341,7.04,Medium,Airport
+QB10342,4.74,Severe,South
+QB10343,1.81,Low,North
+QB10344,2.19,Medium,Central
+QB10345,4.13,High,Central
+QB10346,6.73,Low,Central
+QB10347,12.03,High,South
+QB10348,4.74,Low,East
+QB10349,2.53,Medium,Tech Park
+QB10350,2.61,Medium,E
+QB10351,6.78,High,North
+QB10352,9.5,High,South
+QB10353,3.6,Severe,Tech Park
+QB10354,3.24,Medium,Airport
+QB10355,3.36,Medium,Old Town
+QB10356,5.75,Medium,Central
+QB10357,3.86,Medium,West
+QB10358,3.73,High,Airport
+QB10359,7.32,High,Old Town
+QB10360,7.12,High,Central
+QB10361,9.81,Medium,West
+QB10362,6.74,High,East
+QB10363,5.98,Medium,Tech Park
+QB10364,5.31,Medium,south
+QB10365,6.04,High,Oldtown
+QB10366,3.13,High,West
+QB10367,2.39,Medium,North
+QB10368,2.17,Low,North
+QB10369,2.6,High,South
+QB10370,3.24,Severe,Central
+QB10371,3.38,Low,North
+QB10372,7.82,Low,Central
+QB10373,4.0,Medium,East
+QB10374,11.7,Medium,East
+QB10375,3.77,Medium,Central
+QB10376,6.3,Medium,Tech Park
+QB10377,7.1,High,W
+QB10378,4.08,Low,West
+QB10379,3.48,Severe, EAST 
+QB10380,8.49,High,Airport
+QB10381,5.6,High,Old Town
+QB10382,1.43,Medium,Central
+QB10383,6.18,Medium,Old Town
+QB10384,13.08,High,Central
+QB10385,4.96,High,Central
+QB10386,3.86,Medium,Central
+QB10387,10.51,Medium,east
+QB10388,7.94,High,East
+QB10389,3.17,Medium,West
+QB10390,11.46,Severe,Central
+QB10391,8.73,Medium,Old Town
+QB10392,3.66,Severe,Central
+QB10393,9.54,Severe,West
+QB10394,3.66,High,West
+QB10395,5.16,High,West
+QB10396,2.2,Medium,N
+QB10397,7.07,High,Old Town
+QB10398,8.11,Medium,South
+QB10399,8.61,Low,East
+QB10400,2.46,Low,Central
+QB10401,7.01,Medium,South
+QB10402,9.42,High,Old Town
+QB10403,3.28,Severe,East
+QB10404,4.91,Low,West
+QB10405,4.7,Medium,West
+QB10406,3.6,Medium,Airport
+QB10407,3.71,Low,Central
+QB10408,10.12,Medium,South
+QB10409,4.69,Medium,West
+QB10410,4.44,Medium,Old Town
+QB10411,3.8,Severe,West
+QB10412,2.12,Low,Tech Park
+QB10413,10.53,Medium,South
+QB10414,7.28,Low,Old Town
+QB10415,5.89,Medium,Central
+QB10416,6.98,Severe,Central
+QB10417,5.53,Medium,South
+QB10418,9.62,Severe,East
+QB10419,9.24,Medium,S
+QB10420,6.16,Severe,Tech Park
+QB10421,4.56,Medium,Airport
+QB10422,1.95,Low,Central
+QB10423,8.64,Low,West
+QB10424,2.33,High,Airport
+QB10425,2.41,Low,Tech Park
+QB10426,6.33,Low,Tech Park
+QB10427,5.01,High,Tech Park
+QB10428,5.86,High,Central
+QB10429,5.05,High,Central
+QB10430,3.39,Low,Tech Park
+QB10431,3.79,High,East
+QB10432,1.7,Medium,Old Town
+QB10433,5.3,Medium,north
+QB10434,5.53,Low,Central
+QB10435,12.36,High,West
+QB10436,4.06,Medium,Old Town
+QB10437,4.54,Medium,West
+QB10438,4.29,Low,central
+QB10439,6.41,Medium,West
+QB10440,4.32,High,Airport
+QB10441,4.99,Severe,Airport
+QB10442,7.55,Severe,West
+QB10443,3.84,Severe,West
+QB10444,5.85,High,West
+QB10445,7.06,Low,North
+QB10446,3.48,Medium,Central
+QB10447,17.16,Low,Airport
+QB10448,5.91,Medium,Central
+QB10449,1.85,Low,Central
+QB10450,2.75,Medium,South
+QB10451,10.02,Low,Old Town
+QB10452,10.42,Medium,Old Town
+QB10453,1.97,Severe,East
+QB10454,1.78,Medium,Old Town
+QB10455,1.03,High,South
+QB10456,6.25,Medium,East
+QB10457,8.56,High,West
+QB10458,5.14,Severe,Central
+QB10459,3.62,High,South
+QB10460,6.02,Medium,Central
+QB10461,2.44,Low,North
+QB10462,5.25,High,Central
+QB10463,3.68,Low,South
+QB10464,3.57,High,East
+QB10465,7.5,High,TECH PARK 
+QB10466,6.62,Medium,North
+QB10467,3.86,High,North
+QB10468,4.25,Severe,East
+QB10469,2.6,High,East
+QB10470,5.14,Severe,south
+QB10471,2.64,Low,Tech Park
+QB10472,11.19,Low,Tech Park
+QB10473,4.69,Medium, WEST 
+QB10474,6.38,Severe,Airport
+QB10475,1.79,High,North
+QB10476,5.46,Low,Central
+QB10477,4.06,Low,North
+QB10478,7.33,High,South
+QB10479,10.19,Low,Airport
+QB10480,3.73,High,Old Town
+QB10481,4.12,Low,East
+QB10482,8.38,Severe,Old Town
+QB10483,4.9,High,East
+QB10484,5.47,Low,North
+QB10485,5.65,Low,East
+QB10486,5.94,High,Ctr
+QB10487,7.78,Low,Central
+QB10488,4.25,Medium,West
+QB10489,9.76,Medium,North
+QB10490,8.5,High,North
+QB10491,2.44,High,South
+QB10492,2.44,Medium,South
+QB10493,4.46,Low,Tech Park
+QB10494,4.15,Medium,North
+QB10495,3.24,Medium,North
+QB10496,3.71,Severe,South
+QB10497,2.35,Medium,East
+QB10498,2.97,High,East
+QB10499,4.62,Severe,Old Town
+QB10500,4.79,Low,East
